@@ -1,0 +1,10 @@
+applications:
+- path: output/webApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: MyPIStarter1
+  host: MyPIStarter1
+  disk_quota: 1024M
+  services:
+  - MyPIStarter1-personality_insights
