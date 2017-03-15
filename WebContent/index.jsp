@@ -48,7 +48,7 @@
 					</div>
 					<div
 						class="col-lg-10 col-md-10 col-sm-10 col-xs-12 dialog-description">
-						<h1 style="font-size: 70px;" class="service-title"><fmt:message key="application.name"/></h1>
+						<h1 style="font-size: 10px;" class="service-title"><fmt:message key="application.name"/></h1>
 						<p><fmt:message key="service.description"/></p>
 						<div class="resource">
 							<img src="images/link.svg" class="link-icon"><strong><fmt:message key="application.label.resources"/>:</strong>
